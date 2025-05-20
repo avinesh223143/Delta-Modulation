@@ -1,5 +1,5 @@
-# Delta-Modulation
-## Date:27/03/25
+# EX 2b Delta-Modulation
+## Date:29/03/25
 ### Aim
     To implement and analyze Delta-Modulation (DM) using Python's NumPy and Matplotlib libraries.
 ### Tools required
